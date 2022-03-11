@@ -1,7 +1,7 @@
 {
   "name": "tracking-server",
   "version": "0.0.1",
-  "description": "Percipio Tracking Server",
-  "title": "Percipio Tracking Server",
+  "description": "Tracking Server",
+  "title": "Tracking Server",
   "url" : "http://localhost:3000/v1"
 }
